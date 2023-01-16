@@ -1,4 +1,4 @@
-#code written and project by Rajeev K R
+#project and code written by Rajeev K R, github.com/Rajeev-K-R
 
 #change directory to current folder for running
 
