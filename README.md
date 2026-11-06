@@ -4,6 +4,15 @@ A two-player desktop chess game built in **Python** using **Pygame**. The projec
 
 > **Note:** This project is intentionally a two-player game and does **not** contain an AI engine.
 
+## 🎥 Demo
+
+A short gameplay video:
+[▶️ Watch the Chess Demo](
+
+https://github.com/user-attachments/assets/b0e9cf6c-4d7b-4d9c-8c2f-2204ca00c8b3
+
+)
+
 ## ✨ Highlights
 
 - Interactive 8×8 chess board rendered with Pygame
@@ -82,15 +91,6 @@ Chess/
 │       └── p.png
 └── chess.py
 ```
-
-## 🎥 Demo
-
-A short gameplay video:
-[▶️ Watch the Chess Demo](
-
-https://github.com/user-attachments/assets/b0e9cf6c-4d7b-4d9c-8c2f-2204ca00c8b3
-
-)
 
 
 ## 📌 Project Context
